@@ -1,0 +1,5 @@
+ time python scripts/train.py  --no-mlflow
+
+real    1m57.627s
+user    1m34.759s
+sys     0m21.387s
